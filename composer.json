@@ -1,0 +1,11 @@
+{
+    "name": "bitcode/izcef",
+    "description": "An Integration plugin for wordpress",
+    "license": "gpl-2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FormInteg\\IZCEF\\": "includes/"
+        }
+    }
+}
